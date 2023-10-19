@@ -56,21 +56,6 @@
 
 // TASK - 4 --> Simmetriya dərəcəsi//
 // let number = parseInt(prompt("ededi daxil edin:"));
-// let counter = 0;
-// function checkSameDigits(number){
-//     let digit = number % 10;
-//     while (number){
-//         let eded = number % 10;
-//         number = parseInt(number / 10);
-//         if (eded == digit){
-//             counter++;
-//         }
-//     }
-//     return counter;
-// }
-// console.log((checkSameDigits(number)));
-// ----------------------------------------------------------------------------------------------------
-// let number = parseInt(prompt("ededi daxil edin:"));
 // let arr = [];
 // let counter = 0;
 // while(number){
